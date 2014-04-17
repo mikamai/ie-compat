@@ -11,6 +11,9 @@ Sick of reimplementing `console.log` every time you have to support Microsoft In
 - `Array.prototype.forEach`
 
 
+![⚠️ Done](http://cl.ly/image/272i1m2U0H0j/javascript-error-icon.gif)
+
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -27,7 +30,7 @@ Or install it yourself as:
 
 ### Opal, Rails, Sprockets, ActiveAdmin
 
-Happy days, You're covered!
+Happy days, got you covered!
 
 (at least if they're required *before* `IE::Compat`)
 
