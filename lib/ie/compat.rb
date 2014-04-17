@@ -13,3 +13,9 @@ module Ie
     end
   end
 end
+
+case
+when defined? Rails
+  require 'ie/compat/railtie'
+end
+
