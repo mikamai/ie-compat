@@ -1,4 +1,4 @@
-require "ie/compat/version"
+require 'ie/compat/version'
 
 module Ie
   module Compat
