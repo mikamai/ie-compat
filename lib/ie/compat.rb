@@ -17,5 +17,9 @@ end
 case
 when defined? Rails
   require 'ie/compat/railtie'
+when defined? Opal
+  Opal.append_path IE::Compat.assets_path
+when defined? Sprockets
+  Sprockets.append_path IE::Compat.assets_path
 end
 
