@@ -5,7 +5,7 @@ require 'ie/compat/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'ie-compat'
-  spec.version       = Ie::Compat::VERSION
+  spec.version       = IE::Compat::VERSION
   spec.authors       = ['Elia Schito']
   spec.email         = ['elia@schito.me']
   spec.summary       = %q{The usual set of IE 9 and <9 compatibility assets}

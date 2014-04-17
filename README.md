@@ -1,4 +1,4 @@
-# Ie::Compat
+# IE::Compat
 
 Sick of reimplementing `console.log` every time you have to support Microsoft Internet Explorer < 10?
 
@@ -25,7 +25,7 @@ Or install it yourself as:
 
     $ gem install ie-compat
 
-### Opal, Rails, Sprockets
+### Opal, Rails, Sprockets, ActiveAdmin
 
 Happy days, You're covered!
 
