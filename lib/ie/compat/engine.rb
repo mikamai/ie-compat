@@ -1,6 +1,6 @@
 module IE
   module Compat
-    class Railtie < ::Rails::Railtie
+    class Engine < ::Rails::Engine
       config.ie_compat = ActiveSupport::OrderedOptions.new
 
       initializer 'ie-compat.initialize' do
